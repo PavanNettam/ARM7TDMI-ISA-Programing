@@ -14,4 +14,4 @@ https://cpulator.01xz.net/?sys=arm
 
 <h2>Note</h2>
 
-- The programs which are using HWord and Byte may not work as expected in online compiler, try using offline version.
+- The programs which are using HWord and Byte may not work as expected in the online compiler, try using offline version.
